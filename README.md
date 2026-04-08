@@ -2,7 +2,5 @@
 
 A description of this package.
 
-update SDK to 3.20.16
-update SharedFrameworks to 3.20.16
-test Update Amity SDK video versions 4.18.1
-update Realm versions 4.18.1
+UIKit 3.19.0
+SDK Version 6.28.0
