@@ -34,13 +34,13 @@ targets: [
                 ),
         .binaryTarget(
                     name: "AmityLiveVideoBroadcastKit",
-                    url: "https://sdk.amity.co/sdk-release/ios-uikit-frameworks/3.19.0/AmityLiveVideoBroadcastKit.xcframework.zip",
-                    checksum: "1ca97c87dbbeb399b21585ccb6af1a3544a1979a9ede1666834e8c057e17825d"
+                    url: "https://sdk.amity.co/sdk-release/ios-uikit-frameworks/4.18.1/AmityLiveVideoBroadcastKit.xcframework.zip",
+                    checksum: "eedf71b59c02777f5fb771b9cbe3b45145d85fd1cb0326385a199961590df23b"
                 ),
         .binaryTarget(
                     name: "AmityVideoPlayerKit",
-                    url: "https://sdk.amity.co/sdk-release/ios-uikit-frameworks/3.19.0/AmityVideoPlayerKit.xcframework.zip",
-                    checksum: "12071cce1820b7dfb521856bbc8235db842371dbe3b0844a2a726caa2e0ae15b"
+                    url: "https://sdk.amity.co/sdk-release/ios-uikit-frameworks/4.18.1/AmityVideoPlayerKit.xcframework.zip",
+                    checksum: "e9702b03ab92e45b7f59c0d35c4de46a1fd5e89bde971e8c308304a19405f55f"
                 ),
         .binaryTarget(
                     name: "MobileVLCKit",
