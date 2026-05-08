@@ -19,8 +19,8 @@ targets: [
             dependencies: []),
         .binaryTarget(
                     name: "AmitySDK",
-                    url: "https://sdk.amity.co/sdk-release/ios-uikit-frameworks/3.20.16/AmitySDK.xcframework.zip",
-                    checksum: "e43ad5d636e9ac7cbfbd5a772bca023fa961b900a1e6b1101709773a29350564"
+                    url: "https://sdk.amity.co/sdk-release/ios-uikit-frameworks/3.19.2/AmitySDK.xcframework.zip",
+                    checksum: "eef1003265ce7fed82cbef74780d90790154861041821cb25e84e0a8c1ec835d"
                 ),
         .binaryTarget(
                     name: "Realm",
